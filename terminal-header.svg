@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-label="Terminal header with Robi Joy Chakma">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07140f"/><stop offset="1" stop-color="#0d1117"/></linearGradient><pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse"><path d="M27 0H0V27" fill="none" stroke="#15412d" stroke-opacity=".22"/></pattern></defs>
+<rect width="1100" height="310" fill="url(#bg)" rx="16"/><rect width="1100" height="310" fill="url(#grid)" rx="16"/><rect x="28" y="25" width="1044" height="260" rx="12" fill="#0b1511" stroke="#245c3d" stroke-width="2"/><path d="M28 66H1072" stroke="#245c3d"/><circle cx="53" cy="46" r="7" fill="#fc665f"/><circle cx="76" cy="46" r="7" fill="#f8bc40"/><circle cx="99" cy="46" r="7" fill="#35c75a"/><text x="550" y="51" font-family="monospace" text-anchor="middle" font-size="17" fill="#81a995">robi@github: ~/profile — bash</text>
+<text x="65" y="107" fill="#39ff88" font-family="monospace" font-size="19">robi@github</text><text x="203" y="107" fill="#91a99c" font-family="monospace" font-size="19">:~$ ./introduce.sh</text>
+<text x="65" y="168" fill="#e4fff0" font-family="monospace" font-size="50" font-weight="bold">ROBI JOY CHAKMA</text>
+<text x="65" y="208" fill="#65d995" font-family="monospace" font-size="21">RESEARCH  //  GIS  //  DEVELOPMENT</text>
+<text x="65" y="252" fill="#849c8b" font-family="monospace" font-size="16">&gt; Building systems. Mapping insights. Exploring ideas.</text>
+<text x="973" y="253" fill="#39ff88" font-family="monospace" font-size="27">[ _ ]</text>
+</svg>
