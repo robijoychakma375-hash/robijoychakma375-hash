@@ -1,8 +1,16 @@
-<p align="center"><img src="./assets/hero.svg" alt="Robi Joy Chakma terminal profile" width="100%" /></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1100&color=31E981&center=true&vCenter=true&width=780&lines=%24+whoami;%24+research+%2B+geospatial+analysis+%2B+code;%24+build+tools+that+solve+real+problems" alt="Terminal typing introduction" />
-</p>
+<img src="https://github.com/robijoychakma375-hash.png" width="155" alt="Robi Joy Chakma GitHub profile photograph" />
+
+# `ROBI JOY CHAKMA`
+
+**`research • mapping • software`**
+
+<img src="./assets/terminal-header.svg" width="100%" alt="Robi Joy Chakma terminal banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=900&color=39FF88&center=true&vCenter=true&width=720&lines=%24+whoami;%24+building+tools+that+solve+real+problems;%24+research+%7C+GIS+%7C+software" alt="Terminal typing introduction" />
+
+</div>
 
 ### `robi@github:~$ cat about.yaml`
 
@@ -10,57 +18,71 @@
 name: Robi Joy Chakma
 location: Bangladesh
 background: Civil Engineering | Public Health Research
-interests: [GIS, Anthropology, Data Analysis, Open Source, Software]
-mission: Building useful tools and learning continuously
+focus: [GIS, Anthropology, Data Analysis, Software Development]
+mission: Build useful tools. Understand real problems. Keep learning.
 ```
 
 ### `robi@github:~$ ls ./tech-stack`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,r,postgres,git,github,vscode,html,css&theme=dark&perline=6" alt="Technology icons" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/QGIS-0B1511?style=for-the-badge&logo=qgis&logoColor=31E981" alt="QGIS" />
-  <img src="https://img.shields.io/badge/ArcGIS-0B1511?style=for-the-badge&logo=esri&logoColor=31E981" alt="ArcGIS" />
-  <img src="https://img.shields.io/badge/Research-0B1511?style=for-the-badge&logo=googlescholar&logoColor=31E981" alt="Research" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,r,postgres,git,github,vscode,html,css&perline=6" alt="Software development technology stack" />
+
+`QGIS` · `ArcGIS` · `Research Methods` · `Data Analysis`
+
+</div>
 
 ### `robi@github:~$ cat social-links.txt`
 
-<p align="center">
-<a href="https://github.com/robijoychakma375-hash"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B1511?style=for-the-badge&logo=github&logoColor=31E981" /></a>
-<a href="https://robijoychakma375-hash.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B1511?style=for-the-badge&logo=googlechrome&logoColor=31E981" /></a>
-<a href="mailto:242420008.ms365@easternuni.edu.bd"><img alt="Email" src="https://img.shields.io/badge/Email-0B1511?style=for-the-badge&logo=gmail&logoColor=31E981" /></a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF88)](https://github.com/robijoychakma375-hash)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=39FF88)](https://robijoychakma375-hash.github.io)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF88)](mailto:242420008.ms365@easternuni.edu.bd)
+
+</div>
 
 ### `robi@github:~$ ls ./featured-repositories`
 
 | Repository | Focus |
-|---|---|
-| [`robichakma-portfolio`](https://github.com/robijoychakma375-hash/robichakma-portfolio) | Personal portfolio |
-| [`deshi-collection-landing`](https://github.com/robijoychakma375-hash/deshi-collection-landing) | TypeScript landing page |
-| [`account-recovery-test-tool`](https://github.com/robijoychakma375-hash/account-recovery-test-tool) | Python utility |
-| [`robijoychakma375-hash.github.io`](https://github.com/robijoychakma375-hash/robijoychakma375-hash.github.io) | GitHub Pages site |
+| :-- | :-- |
+| [robichakma-portfolio](https://github.com/robijoychakma375-hash/robichakma-portfolio) | Personal portfolio |
+| [deshi-collection-landing](https://github.com/robijoychakma375-hash/deshi-collection-landing) | TypeScript landing page |
+| [account-recovery-test-tool](https://github.com/robijoychakma375-hash/account-recovery-test-tool) | Python project |
+| [robijoychakma375-hash.github.io](https://github.com/robijoychakma375-hash/robijoychakma375-hash.github.io) | GitHub Pages site |
 
-### `robi@github:~$ github --trophies`
+### `robi@github:~$ github --milestones`
 
-<p align="center"><img src="./assets/trophies.svg" width="100%" alt="Personal builder milestones (not GitHub awards)" /></p>
+<div align="center">
 
-### `robi@github:~$ github --top-contributed-repos`
+<img src="./assets/milestones.svg" width="100%" alt="Development milestones, not official GitHub trophies" />
 
-<p align="center"><img src="./assets/contributions.svg" width="100%" alt="Selected public repositories (not contribution ranking)" /></p>
+<sub>Personal focus areas — not GitHub achievement trophies.</sub>
 
-<p align="center"><sub>These are selected projects, not a verified top-contribution ranking. <a href="https://github.com/robijoychakma375-hash?tab=overview">View GitHub contributions</a>.</sub></p>
+</div>
+
+### `robi@github:~$ github --contributed-repositories`
+
+> Top contributed repositories require verified contribution data. Until then, browse [my public repositories](https://github.com/robijoychakma375-hash?tab=repositories) and [my contribution activity](https://github.com/robijoychakma375-hash).
 
 ### `robi@github:~$ github --stats`
 
-<p align="center"><img src="./assets/stats.svg" width="100%" alt="Profile overview" /></p>
+<div align="center">
 
-<p align="center"><a href="https://github.com/robijoychakma375-hash?tab=overview">↗ View live contribution heatmap and profile metrics on GitHub</a></p>
+<img src="./assets/profile-overview.svg" width="100%" alt="Link to live GitHub profile activity" />
+
+[**View live contribution heatmap and profile statistics on GitHub**](https://github.com/robijoychakma375-hash)
+
+</div>
 
 ### `robi@github:~$ echo $MISSION`
 
 ```text
 Build useful tools. Understand real problems. Keep learning.
 ```
+
+<div align="center">
+
+`[ STATUS: BUILDING ]` • `Keep learning. Keep building.`
+
+</div>
